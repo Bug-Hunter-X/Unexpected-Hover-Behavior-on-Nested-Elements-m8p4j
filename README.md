@@ -1,0 +1,1 @@
+This repository demonstrates a common CSS issue where the hover state of a nested element unintentionally affects its parent. The `bug.css` file showcases the problematic code, while `bugSolution.css` provides a solution using more specific selectors to isolate the hover effect to the intended element. 
