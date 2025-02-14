@@ -1,0 +1,14 @@
+/* bugSolution.css */
+.parent {
+  background-color: lightblue;
+}
+
+.parent .child {
+  background-color: lightcoral;
+}
+
+.parent .child:hover {
+  background-color: coral; 
+}
+
+/*This makes sure only the child element is affected on hover*/
